@@ -1,0 +1,46 @@
+3
+3 3 2
+add_regions Riyadh Makkah Qassim
+add_cities Riyadh Ar-Riyad Al-Kharj Ad-Dawadmi
+add_cities Makkah Makkah-al-Mukarramah Jeddah Taif
+add_cities Qassim Buraidah Unaizah
+add_populations Riyadh Ar-Riyad 3
+2018 5516374 635495744
+2019 4503744 638347384
+2020 4564633 650736422
+add_populations Riyadh Al-Kharj 3
+2018 415865 43593433
+2019 418636 42957485
+2020 425330 44326383
+add_populations Riyadh Ad-Dawadmi 3
+2018 263847 28453343
+2019 269038 29504583
+2020 271947 30129347
+add_populations Makkah Makkah-al-Mukarramah 3
+2018 2119393 533563432
+2019 2124848 545564533
+2020 2042047 535765756
+add_populations Makkah Jeddah 3
+2018 3516374 345675764
+2019 3503744 356006874
+2020 3564633 335834763
+add_populations Makkah Taif 3
+2018 527834 21565633
+2019 525437 22300454
+2020 543823 22506565
+add_populations Qassim Buraidah 1
+2020 419383 23594575
+add_populations Qassim Unaizah 1
+2020 119383 3989786
+print_result Riyadh Ar-Riyad
+print_result Riyadh Al-Kharj
+print_result Riyadh Ad-Dawadmi
+print_result Makkah Makkah-al-Mukarramah
+print_result Makkah Jeddah
+print_result Makkah Taif
+print_result Qassim Buraidah
+print_result Qassim Unaizah
+find_lowest_usage
+find_higest_usage
+about_developer
+exit
